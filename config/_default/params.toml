@@ -38,7 +38,7 @@ schemaGitHub = "https://github.com/h-enk/hyas"
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 
 # Footer
-footer = "<a class=\"text-muted\" href=\"http://beian.miit.gov.cn/\">沪ICP备2020034487号-2</a>  Powered by <a class=\"text-muted\" href=\"https://getbootstrap.com/\">Bootstrap</a> and <a class=\"text-muted\" href=\"https://gethyas.com/\">Hyas</a> "
+footer = "<a class=\"text-muted\" href=\"http://beian.miit.gov.cn/\">沪ICP备2020034487号-2</a>  Powered by <a class=\"text-muted\" href=\"https://getbootstrap.com/\">Bootstrap</a>"
 
 # Images
 
